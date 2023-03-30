@@ -1,5 +1,5 @@
 #  ⚠️ Pre-release software ⚠️
-This project is being built against a pre-release version of XM Cloud. There will most likely be breaking changes introduced that will require (possibly extensive) refactoring of the code seen here. 
+This project is being built against a pre-release version of XM Cloud. There will most likely be breaking changes introduced that will require (possibly extensive) refactoring of the code seen here..
 
 During this time it is not possible for people external to Sitecore's Technical Marketing team to run this project locally. We will also not be accepting community contributions during this time.
 
