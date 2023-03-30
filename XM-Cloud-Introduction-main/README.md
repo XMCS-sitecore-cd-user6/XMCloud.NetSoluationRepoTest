@@ -3,7 +3,7 @@ This project is being built against a pre-release version of XM Cloud. There wil
 
 During this time it is not possible for people external to Sitecore's Technical Marketing team to run this project locally. We will also not be accepting community contributions during this time.
 
-You can `watch` this repository to follow along with our development progress as we prepare for the full public release of XM Cloud. Once we reach that point, we will then define a process for community contributions.
+You can `watch` this repository to follow along with our development progress as we prepare for the full public release of XM Cloud. Once we reach that point, we will then define a process for community contributions..
 
 # Build Status
 
